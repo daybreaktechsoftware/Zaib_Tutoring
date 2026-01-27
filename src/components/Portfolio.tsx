@@ -84,10 +84,10 @@ const Portfolio = () => {
                     <h4 className="text-lg font-semibold text-gray-800 mb-1">
                       {credential.title}
                     </h4>
-                    <p className="text-gray-600 mb-1">
+                    {/* <p className="text-gray-600 mb-1">
                       {credential.institution}
                     </p>
-                    <p className="text-sm text-gray-500">{credential.year}</p>
+                    <p className="text-sm text-gray-500">{credential.year}</p> */}
                   </div>
                 </div>
               </div>

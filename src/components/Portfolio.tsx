@@ -4,28 +4,28 @@ const Portfolio = () => {
   const credentials = [
     {
       title: "Qualified Foundation Phase Teacher",
-      institution: "Certified by National Education Board",
+      institution: "Adaptive Learning Support",
       year: "2023",
       icon: Award,
       color: "from-blue-400 to-cyan-500",
     },
     {
-      title: "Autism Spectrum Disorder Training",
-      institution: "Special Needs Education Institute",
-      year: "2023",
+      title: "Adaptive Learning Support Training",
+      institution: "Inclusive Education Courses",
+      year: "2024",
       icon: BookOpen,
       color: "from-green-400 to-emerald-500",
     },
     {
-      title: "Experience at Special Needs Schools",
-      institution: "Grade RR, R, 1, and 4",
+      title: "Experience in Special Needs Settings",
+      institution: "Grade RR–4 | Individualised support",
       year: "2023",
       icon: Users,
       color: "from-purple-400 to-violet-500",
     },
     {
-      title: "Tutoring ASD Learners",
-      institution: "Private Tutoring Sessions",
+      title: "Individualised Tutoring & Support",
+      institution: "Private sessions & school collaboration",
       year: "2023",
       icon: Clock,
       color: "from-pink-400 to-rose-500",
@@ -62,7 +62,7 @@ const Portfolio = () => {
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed">
             Committed to continuous learning and staying current with the latest
-            research and best practices in autism education and support.
+            research and best practices in inclusive, adaptive learning support.
           </p>
         </div>
 
@@ -146,3 +146,4 @@ const Portfolio = () => {
 };
 
 export default Portfolio;
+

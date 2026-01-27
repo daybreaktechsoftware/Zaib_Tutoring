@@ -20,7 +20,7 @@ const Header = () => {
               <Heart className="w-5 h-5 text-white" />
             </div>
             <span className="text-xl font-bold text-gray-800">
-              ZA Autism Tutoring
+              ZA Adaptive Learning Support
             </span>
           </div>
 
@@ -73,3 +73,4 @@ const Header = () => {
 };
 
 export default Header;
+

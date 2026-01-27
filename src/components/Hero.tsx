@@ -10,14 +10,15 @@ const Hero = () => {
             <div className="space-y-6 text-center lg:text-left">
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-800 leading-tight">
                 <span className="block text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-500">
-                  Hi I'm Zaib
+                  Hi, I'm Zaib
                 </span>
-                an Autism Tutor Dedicated to Growth and Support
+                an Adaptive Learning Support Tutor
               </h1>
 
               <p className="text-xl text-gray-600 leading-relaxed max-w-xl mx-auto lg:mx-0">
-                Personalized tutoring that supports unique learners and helps
-                them unlock their strengths
+                Supporting learners with barriers to learning through
+                structured, compassionate, and individualised tutoring designed
+                to help each student thrive.
               </p>
             </div>
 
@@ -73,3 +74,4 @@ const Hero = () => {
 };
 
 export default Hero;
+
